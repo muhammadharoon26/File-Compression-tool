@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/xampp/cgi-bin",
-      "program": "c:/xampp/cgi-bin/build/Debug/outDebug",
+      "cwd": "d:/Git-Hub/File-Compression-tool",
+      "program": "d:/Git-Hub/File-Compression-tool/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
